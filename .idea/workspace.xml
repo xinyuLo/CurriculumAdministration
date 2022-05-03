@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CurriculumAdministration:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9a64131-3f9f-46fb-89c1-5e4c66e53e68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Student/Account/modifyPassword.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Student/Account/modifyPersonalInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Student/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Student/score.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/Account/modifyPassword.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/Account/modifyPersonalInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/addScore.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/addStudent.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/addSubject.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/listStu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/listStuModify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/listSubject.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/modifyScore.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/modifyStu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/modifySubject.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/scoreManagement.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/Teacher/stuManagement.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/Interceptor/LoginInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/account/ModifyPasswordAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/account/ModifyPasswordAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/account/ModifyStuInfoAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/account/ModifyStuInfoAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/account/ModifyTeacherInfoAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/account/ModifyTeacherInfoAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/authority/LoginAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/authority/LoginAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/authority/LogoutAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/dao/Dao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/filter/LoginFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/student/GetScoreAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/AddScoreAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/AddScoreAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/AddSubjectAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/AddSubjectAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/DelStuAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/DelSubjectAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/GetScoreDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/ListStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/ListSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/ModifyScoreAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/ModifyScoreAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/ModifyStudentAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/ModifyStudentAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/ModifySubjectAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/ModifySubjectAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/ScoreManageAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/addStudent-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/teacher/addStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/vo/Score.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/vo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/vo/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/org/myweb/vo/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/classes/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/antlr-2.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/classworlds-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/commons-beanutils-1.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/commons-chain-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/commons-collections-3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/commons-digester-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/commons-io-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/commons-lang-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/commons-logging-api-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/commons-validator-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/freemarker-2.3.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/javassist-3.7.ga.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/json-lib-2.1-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/ognl-3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/oro-2.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/sslext-1.2-0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/struts2-convention-plugin-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/struts2-core-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/struts2-embeddedjsp-plugin-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/struts2-json-plugin-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/lib/xwork-core-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/css/publicModify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/images/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/images/stu_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/images/teacher_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CurriculumAdministration_war_exploded/js/jquery-1.9.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/Interceptor/LoginInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/account/ModifyPasswordAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/account/ModifyPasswordAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/account/ModifyStuInfoAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/account/ModifyStuInfoAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/account/ModifyTeacherInfoAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/account/ModifyTeacherInfoAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/authority/LoginAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/authority/LoginAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/authority/LogoutAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/dao/Dao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/filter/LoginFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/student/GetScoreAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/AddScoreAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/AddScoreAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/AddSubjectAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/AddSubjectAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/DelStuAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/DelSubjectAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/GetScoreDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/ListStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/ListSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/ModifyScoreAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/ModifyScoreAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/ModifyStudentAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/ModifyStudentAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/ModifySubjectAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/ModifySubjectAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/ScoreManageAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/addStudent-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/teacher/addStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/vo/Score.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/vo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/vo/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/org/myweb/vo/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CurriculumAdministration/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/Interceptor/LoginInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/account/ModifyPasswordAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/account/ModifyPasswordAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/account/ModifyStuInfoAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/account/ModifyStuInfoAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/account/ModifyTeacherInfoAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/account/ModifyTeacherInfoAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/authority/LoginAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/authority/LoginAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/authority/LogoutAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/dao/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/filter/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/student/GetScoreAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/AddScoreAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/AddScoreAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/AddSubjectAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/AddSubjectAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/DelStuAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/DelSubjectAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/GetScoreDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/ListStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/ListSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/ModifyScoreAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/ModifyScoreAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/ModifyStudentAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/ModifyStudentAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/ModifySubjectAction-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/ModifySubjectAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/ScoreManageAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/addStudent-validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/teacher/addStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/vo/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/vo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/vo/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/myweb/vo/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Student/Account/modifyPassword.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Student/Account/modifyPersonalInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Student/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Student/score.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/Account/modifyPassword.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/Account/modifyPersonalInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/addScore.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/addStudent.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/addSubject.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/listStu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/listStuModify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/listSubject.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/modifyScore.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/modifyStu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/modifySubject.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/scoreManagement.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Teacher/stuManagement.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/antlr-2.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/classworlds-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-chain-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-digester-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-api-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-validator-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/freemarker-2.3.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javassist-3.7.ga.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.1-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ognl-3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/oro-2.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/sslext-1.2-0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/struts2-convention-plugin-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/struts2-core-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/struts2-embeddedjsp-plugin-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/struts2-json-plugin-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/xwork-core-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/publicModify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/stu_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/teacher_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery-1.9.1.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="xinyu_net@outlook.com" />
+        <option value="xinyuLo" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\project\maven\babasportMaven\repository" />
+        <option name="mavenHome" value="E:/project/maven/apache-maven-3.3.9" />
+        <option name="pluginUpdatePolicy" value="DO_NOT_UPDATE" />
+        <option name="userSettingsFile" value="E:\project\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="28diep33zBWZ76YuC45RxNN13dh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\program\IDEAworkSpace\CurriculumAdministration\web" />
+      <recent name="E:\program\IDEAworkSpace\CurriculumAdministration\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:80/Login.jsp" />
+      <deployment>
+        <artifact name="CurriculumAdministration:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_45_CurriculumAdministration" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62678" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CurriculumAdministration:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.013846153" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration useDefault="false">C:\Users\Dell\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9a64131-3f9f-46fb-89c1-5e4c66e53e68" name="Default Changelist" comment="" />
+      <created>1651552962075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651552962075</updated>
+      <workItem from="1651552965853" duration="1184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="初次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651553232152">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="275" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1651553232152" />
+    <state x="123" y="26" width="1207" height="808" key="CommitChangelistDialog2" timestamp="1651554209788">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="123" y="26" width="1207" height="808" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1651554209788" />
+    <state x="531" y="175" key="FileChooserDialogImpl" timestamp="1651553508194">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="531" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1651553508194" />
+    <state width="1282" height="425" key="GridCell.Tab.0.bottom" timestamp="1651553271627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1651553271627" />
+    <state width="1282" height="425" key="GridCell.Tab.0.center" timestamp="1651553271627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1651553271627" />
+    <state width="1282" height="425" key="GridCell.Tab.0.left" timestamp="1651553271627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1651553271627" />
+    <state width="1282" height="425" key="GridCell.Tab.0.right" timestamp="1651553271627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1651553271627" />
+    <state width="1282" height="425" key="GridCell.Tab.1.bottom" timestamp="1651553271627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1651553271627" />
+    <state width="1282" height="425" key="GridCell.Tab.1.center" timestamp="1651553271627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1651553271627" />
+    <state width="1282" height="425" key="GridCell.Tab.1.left" timestamp="1651553271627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1651553271627" />
+    <state width="1282" height="425" key="GridCell.Tab.1.right" timestamp="1651553271627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1651553271627" />
+    <state width="1282" height="425" key="GridCell.Tab.2.bottom" timestamp="1651553271628">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1651553271628" />
+    <state width="1282" height="425" key="GridCell.Tab.2.center" timestamp="1651553271627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1651553271627" />
+    <state width="1282" height="425" key="GridCell.Tab.2.left" timestamp="1651553271627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1651553271627" />
+    <state width="1282" height="425" key="GridCell.Tab.2.right" timestamp="1651553271627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1651553271627" />
+    <state width="1282" height="425" key="GridCell.Tab.3.bottom" timestamp="1651553271628">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.3.bottom/0.0.1536.834@0.0.1536.834" timestamp="1651553271628" />
+    <state width="1282" height="425" key="GridCell.Tab.3.center" timestamp="1651553271628">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.3.center/0.0.1536.834@0.0.1536.834" timestamp="1651553271628" />
+    <state width="1282" height="425" key="GridCell.Tab.3.left" timestamp="1651553271628">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.3.left/0.0.1536.834@0.0.1536.834" timestamp="1651553271628" />
+    <state width="1282" height="425" key="GridCell.Tab.3.right" timestamp="1651553271628">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1282" height="425" key="GridCell.Tab.3.right/0.0.1536.834@0.0.1536.834" timestamp="1651553271628" />
+    <state x="231" y="0" key="SettingsEditor" timestamp="1651553490837">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="231" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1651553490837" />
+  </component>
+</project>
