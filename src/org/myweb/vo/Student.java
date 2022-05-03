@@ -1,7 +1,7 @@
 package org.myweb.vo;
 /*
- *Ρ§ΙϊΚµΜεΐΰ 
- * Written By Π΅Τ¶
+ *ε­¦η”ε®δ½“η±» 
+ * Written By ε°θΏ
  * 2016-12-07
  */
 public class Student 
